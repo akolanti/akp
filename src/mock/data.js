@@ -4,7 +4,7 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: 'Aaron', // e.g: 'Name | Developer'
   lang: '', // e.g: en, es, fr, jp
-  description: 'Why should Corel hire me?', // e.g: Welcome to my website
+  description: 'Why should Yangaroo hire me?', // e.g: Welcome to my website
 
 };
 
@@ -20,8 +20,8 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'Apart from being a very motivated and an outgoing person. I am really up for a challenge. I also thrive under pressure',
-  paragraphTwo: 'I am pretty easy to work with and am really eager to learn. Working on Corel seems to be a very interesting project with unique challenges',
-  paragraphThree: 'So, ready to give me a chance? haha',
+  paragraphTwo: 'I am pretty easy to work with and am really eager to learn. Working on Corel seems to be a very interesting project with unique challenges. ',
+  paragraphThree: 'So, ready to give me a chance? haha. Ps. Ill be adding more of my projects soon.',
   resume: '', // if no resume, the button will not show up
 };
 
