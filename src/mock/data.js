@@ -5,6 +5,7 @@ export const headData = {
   title: 'Aaron', // e.g: 'Name | Developer'
   lang: '', // e.g: en, es, fr, jp
   description: 'Why should Corel hire me?', // e.g: Welcome to my website
+
 };
 
 // HERO DATA
@@ -37,22 +38,14 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project1.jpg',
+    img: 'grt_tracker.png',
     title: 'GRT Nav',
     info: 'Its an android application which shows live location of all the busses',
     info2: 'A .pb file is scraped from the GRT website and we use Google Maps  to display the trackers',
     url: '',
     repo: '', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'project1.jpg',
-    title: 'Covid Tracker',
-    info: 'A  JS website which displays the Covid cases by consuming an API ',
-    info2: 'We use mapbox to display different stats and case counts',
-    url: '',
-    repo: '', // if no repo, the button will not show up
-  },
+
 ];
 
 // CONTACT DATA
@@ -70,11 +63,11 @@ export const footerData = {
     //   name: 'twitter',
     //   url: '',
     // },
-    {
-      id: nanoid(),
-      name: 'codepen',
-      url: '',
-    },
+    // {
+    //   id: nanoid(),
+    //   name: 'codepen',
+    //   url: '',
+    // },
     {
       id: nanoid(),
       name: 'linkedin',
