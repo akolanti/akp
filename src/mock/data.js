@@ -18,7 +18,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile1.jpg',
+  img: 'profile.jpg',
   paragraphOne: 'Apart from being a very motivated and an outgoing person. I am really up for a challenge. I also thrive under pressure',
   paragraphTwo: 'I am pretty easy to work with and am really eager to learn. Working on Corel seems to be a very interesting project with unique challenges',
   paragraphThree: 'So, ready to give me a chance? haha',
